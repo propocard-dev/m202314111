@@ -6,6 +6,7 @@ public class Main {
 		// TODO Auto-generated method stub
 		System.out.println("이규호");
 		Hello.run();
+		System.out.println("안녕하세요");
 	}
 
 }
